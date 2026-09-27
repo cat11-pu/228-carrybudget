@@ -1,0 +1,8 @@
+{
+  "capacity_error_code": "E_BAD_CAPACITY",
+  "limit_error_code": "E_BAD_LIMIT",
+  "used_error_code": "E_BAD_USED",
+  "capacity": 10,
+  "carry_max": 3,
+  "batches": [6, 9, 14, 2]
+}
